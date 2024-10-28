@@ -1,2 +1,1 @@
-# sql-formatter
-Simple SQL query string formatter for readability
+Simple SQL query formatter
